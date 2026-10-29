@@ -1,0 +1,7 @@
+torch>=2.6 --index-url https://download.pytorch.org/whl/cu128
+torchvision --index-url https://download.pytorch.org/whl/cu128
+ultralytics>=8.3
+streamlit>=1.40
+pandas
+pillow
+matplotlib
